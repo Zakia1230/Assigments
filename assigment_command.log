@@ -54,3 +54,11 @@ git push origin master
 13>. git merge javascript-assignments
 14>. git branch -d javascript-assignments
     git push origin -d javascript-assignments
+
+
++++++++++++GIT REMOTING++++++++++++
+SECTION 3
+39>. Create a github account
+40>. Log by id and password
+41>. Create and name it freshersbatch-oct16
+42>. Make a clone then add a file and the add it then commit and push it on git.
